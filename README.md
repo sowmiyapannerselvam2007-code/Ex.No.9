@@ -103,6 +103,10 @@ Camera tracking
 Cinematic composition
 Realistic visual style
 
+
+https://github.com/user-attachments/assets/8989bb04-d1b4-476e-8093-ab5b33188e45
+
+
 These additional details helped the AI model understand the desired scene more accurately.
 
 Step 3: Final Video Generation
