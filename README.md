@@ -55,7 +55,11 @@ Tools/LLMs for Video Generation:
 An AI-based text-to-video generation tool was used to generate a video from the given prompts.
 
 VIDEO GENERATION
-[▶ Click here to watch the Basic Prompt Video](./prompt-gvideo.mp4)
+
+
+https://github.com/user-attachments/assets/449a8736-c9ad-44fa-8a0b-496abe89f75f
+
+
 
 A Golden Retriever running on a tropical beach during sunset.
 
@@ -102,9 +106,6 @@ Natural movement of the dog's fur
 Camera tracking
 Cinematic composition
 Realistic visual style
-
-
-https://github.com/user-attachments/assets/8989bb04-d1b4-476e-8093-ab5b33188e45
 
 
 These additional details helped the AI model understand the desired scene more accurately.
