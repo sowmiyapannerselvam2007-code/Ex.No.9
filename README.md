@@ -116,7 +116,11 @@ The refined prompt was used to generate the final video.
 
 The final video shows a Golden Retriever running towards the camera on a sandy beach. The palm trees and ocean are visible in the background, while the warm sunset lighting creates a realistic and cinematic atmosphere.
 
-[INSERT GENERATED VIDEO HERE]
+
+
+https://github.com/user-attachments/assets/78d2c64f-18d9-4858-985d-c1f0230fb005
+
+
 
 ## COMPARISON REPORT
 Feature	Basic Prompt Result	Refined Prompt Result
